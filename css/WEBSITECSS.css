@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+#header
+{
+	background-color: aqua;
+	font-size:40px;
+    float:inherit
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	border-bottom-width: 10px;
+	text-align: center;
+    font-style: italic;
+	background-image: url(Background 5.jpg);
+			
+}
+#banner 
+{
+	display: inline;
+	background-color: lightgreen;
+	text-align: center;
+	font-size: 30px;
+}
+#body{
+	text-align: center;
+	background-color: yellow;
+	font-size: 30px;
+	float: inherit;
+	width: auto;
+	padding-bottom: inherit;
+	table-layout:auto
+}
+
+#footer
+{
+	background-color: darkmagenta;
+	text-align: center
+}
+
+
